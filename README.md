@@ -1,12 +1,13 @@
 # Zelcash Wallet
 
------------------
-+++++ TO-DO +++++
------------------
-+ This   :)
+[Build Linux Wallet from Windows10]
+ant -buildfile ./src/build/build-lin.xml
+
+[Build Windows Wallet from Windows10]
+ant -buildfile ./src/build/build-win.xml
 
 
-[Download here](https://github.com/Scribbles-MCAMK/Zelcash-Wallet/releases)
+[Download here](https://github.com/zelcash/zelcash-wallet/releases)
 
 
 
