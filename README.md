@@ -1,9 +1,11 @@
 # Zelcash Wallet
 
 [Build Linux Wallet from Windows10]
+
 ant -buildfile ./src/build/build-lin.xml
 
 [Build Windows Wallet from Windows10]
+
 ant -buildfile ./src/build/build-win.xml
 
 
