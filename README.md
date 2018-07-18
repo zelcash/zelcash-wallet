@@ -1,3 +1,4 @@
+# DEPRECATED. Use: https://github.com/zelcash/zelcash-swing-wallet
 # Zelcash Wallet
 
 [Build Linux Wallet from Windows10]
